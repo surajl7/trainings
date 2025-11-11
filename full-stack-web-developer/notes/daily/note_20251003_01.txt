@@ -1,4 +1,0 @@
-
-Assignment 2:
-- Create a home page and 5 sub-pages
-- It should include the next-page, back-page and home buttons(links)
